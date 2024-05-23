@@ -1,0 +1,15 @@
+C:\Users\hemil\Documents\PROJETO\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\hemil\Documents\PROJETO\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\hemil\Documents\PROJETO\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\hemil\Documents\PROJETO\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\hemil\Documents\PROJETO\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\hemil\Documents\PROJETO\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\hemil\Documents\PROJETO\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
