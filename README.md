@@ -140,7 +140,3 @@ Resultados processados:
 6  
 Processado porém não visível: 5  
 ```
-
-### Observações
-- A implementação atual suporta operações básicas com tratamento para divisão por zero.
-- A precisão dos resultados é garantida pelo uso do tipo decimal.
