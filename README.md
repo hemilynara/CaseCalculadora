@@ -95,6 +95,20 @@ catch (Exception ex)
 }
 ```
 
+### 6. Funcionalidade: Impressão da Lista de Operações Pendentes:
+
+Adicionada a funcionalidade para imprimir toda a lista de operações a ser processada após cada cálculo realizado. As operações pendentes são exibidas como "Operações restantes na fila" e mostram os valores de cada operação pendente.
+```csharp
+if (filaOperacoes.Count > 0)
+{
+    Console.WriteLine("\nOperações restantes na fila:");
+    foreach (var op in filaOperacoes)
+    {
+        Console.WriteLine("{0} {1} {2}", op.valorA, op.operador, op.valorB);
+    }
+}
+```
+
 ### Execução do Programa
 Para executar o programa, compile e execute o arquivo `Program.cs`. A saída será os resultados das operações seguidas dos resultados armazenados na pilha.
 
